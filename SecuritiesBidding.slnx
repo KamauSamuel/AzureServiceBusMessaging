@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BiddingPortal/BiddingPortal.csproj" />
+  <Project Path="SecuritiesPortal/SecuritiesPortal.csproj" />
+</Solution>
